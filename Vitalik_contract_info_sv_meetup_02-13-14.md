@@ -1,4 +1,4 @@
-First contract example
+Contract example no.1
 ====================
 
 
@@ -48,14 +48,17 @@ First contract example
 
 
 **Q**: Will the ethereum have rpc calls or be JSON compatible? 
+
 **A**: yes, http host in dev, all the stuff that makes it easy to work with
 
 
 **Q**: would be interesting elaborate on the secure data feeds, and how they are implemented in these contracts
+
 **A**: two ways to do a secure date feed, it's a data storage contract, key value database, that feed owners set to whatever they want. this is a simple way of doing it. a more efficient way of doing this is to have your datafeed off the blockchain, any time you have a contract that is dependent on a datafeed, it would require transactions to include in their datafeed the assigned datafeed.
 
 
 **Q**: in the data feed there would be a url and a signature?
+
 **A**: ETH doesn't know about the internet protocls, all ETH would need to care about is public keys and signatures. 
 
 
@@ -79,7 +82,7 @@ First contract example
 **A**: One setup is the on blockchain datafeed, yes you can look inside other contracts. If they are using an off blockchain datafeed, it would be able to look at it, would require the data to be fed in through a transaction. Every contract can access any other contract.
 
 
-Second contract example
+Contract example no. 2
 ====================
 
 
@@ -120,7 +123,7 @@ Second contract example
 
 
 
-Contract example 3 
+Contract example no. 3
 ====================
 
 	if tx.value < tx.basefee * 200:
@@ -195,29 +198,28 @@ Your investment type contract would have different clauses. like trans. type 1, 
 
 **A**:  didn't understand
 
-
 **Q**: Can you walk us through executing an external contract? Something that's inside contract but outside the rest of ETH
-**A**: "i" is the index of ethereum.... [transcriber #FAIL]
 
+**A**: "i" is the index of ethereum.... [transcriber #FAIL]
 
 **Q**: Regardless of the contract author some of the other stuff is not accessible, api of the other contract.
 
 **A**: ... [transcriber #FAIL]
 
-
 **Q**: Do you see an ecosystem with a lot of small utilitarian contracts that are expensive? Or large contracts?
+
 **A**: This is an example of a simple contract, used then shut down, you could have a subcurrency to have five different clauses, clause for financial derivatives, you could reimplement the whole Mastercoin spec as a subcurrency.
 
-
 **Q**: Author needs to be really sure of the maximum fee, either based on API call or knowing the ether cost in advance? If not contract halts?
+
 **A**: Right, we've gotten a lot of feedback that indicates that this is a problem so we are strongly considering an op code that gives the amount of ether left, this would allow a smooth early exit
 
-
 **Q**: I have a question regarding reproducibility. Seems that this would get executed same way in different nodes, if these contracts would or can have any side-effects
+
 **A**: wAy that i'm looking to change the scripting language to set things up, that two contracts act in same way, the contract would only be stored once, then data and code would be separate
 
-
 **Q**: wasn't my question, if contract only gets executed once you want it to be verified by another node. Is that true?
+
 **A**: Yes, then, i would imagine that a contract couldn't do anything exactly replicable on a different minter
 
 **A**: Right, they would need to be fully deterministic. 
@@ -226,34 +228,29 @@ Your investment type contract would have different clauses. like trans. type 1, 
 
 **A**: Right, no exceptions?
 
-
 **Q**: How does ethereum access the BTC blockchain?
 
 **A**: Ethereum code would need to have code to validate Merkle contracts, so you would need to have an SPV client implementation inside a contract, which is possible. You would need the merkle branch to be included, including proof of work on the block header, if this all checks out then it would have pretty good evidence that this is a legitimate BTC transaction
-
 
 **Q**: Can a contract run periodically on its own or does it need an incoming txn?
 
 **A**: Right now it needs a txn, although we could change this if we get feedback indicating this is a necessary feature
 
-
 **Q**: There are these questions about BTC and hiding a private key, I wonder if the code optimization coudl allow obfuscation inside ethereum?
 
-**A**: Optimization will do nothing to allow obfuscation. It will need to be fully written out in Ethereum script. In terms of obfuscation, but you can find this article on the BTC MAgazine or Ethereum blog, some research that has come out recently, there is a way to turn a -
-**VB**:  program into an obfuscated program. right now it is extremely inefficient but it is possible that it could be included later on if it is improved
-
+**A**: Optimization will do nothing to allow obfuscation. It will need to be fully written out in Ethereum script. In terms of obfuscation, but you can find this article on the BTC MAgazine or Ethereum blog, some research that has come out recently, there is a way to turn a program into an obfuscated program. right now it is extremely inefficient but it is possible that it could be included later on if it is improved.
 
 **Q**: My question is about the ETH how they change hands? Is it possible that they would change the source? ETH end up in only the hands of certain people, whoever can execute the contracts. They get paid in ETH.
+
 **A**: Right now we are thinking of burning transaction fees. The nice thing about ETH in terms of what it is different from BTC, the supply doesn't stop growing. Doesn't accelerate. 
 
-
 **Q**: I saw the thread on annotating smart contracts, if you could add a comment then it would help understand people how to do them. Add comments in the compiler?
+
 **A**: Right now the compiler does not support comments, but it will.
 
-
-**Q**: It feel to me that as much as I like ETH that is is really raw, like before Satoshi related it. 
+**Q**: It feel to me that as much as I like ETH that is is really raw, like before Satoshi related it.
+ 
 **A**: Yes, the whole point of a pre-sale is for us to get the resources to bring it to completion. At the end we will have all the resources that BTC has. Very much like BTC in 2008 at this point.
-
 
 **Q**: How does the contract get executed on all nodes?
 
