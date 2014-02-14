@@ -48,17 +48,14 @@ First contract example
 
 
 **Q**: Will the ethereum have rpc calls or be JSON compatible? 
-
 **A**: yes, http host in dev, all the stuff that makes it easy to work with
 
 
 **Q**: would be interesting elaborate on the secure data feeds, and how they are implemented in these contracts
-
 **A**: two ways to do a secure date feed, it's a data storage contract, key value database, that feed owners set to whatever they want. this is a simple way of doing it. a more efficient way of doing this is to have your datafeed off the blockchain, any time you have a contract that is dependent on a datafeed, it would require transactions to include in their datafeed the assigned datafeed.
 
 
 **Q**: in the data feed there would be a url and a signature?
-
 **A**: ETH doesn't know about the internet protocls, all ETH would need to care about is public keys and signatures. 
 
 
@@ -200,7 +197,6 @@ Your investment type contract would have different clauses. like trans. type 1, 
 
 
 **Q**: Can you walk us through executing an external contract? Something that's inside contract but outside the rest of ETH
-
 **A**: "i" is the index of ethereum.... [transcriber #FAIL]
 
 
@@ -210,22 +206,18 @@ Your investment type contract would have different clauses. like trans. type 1, 
 
 
 **Q**: Do you see an ecosystem with a lot of small utilitarian contracts that are expensive? Or large contracts?
-
 **A**: This is an example of a simple contract, used then shut down, you could have a subcurrency to have five different clauses, clause for financial derivatives, you could reimplement the whole Mastercoin spec as a subcurrency.
 
 
 **Q**: Author needs to be really sure of the maximum fee, either based on API call or knowing the ether cost in advance? If not contract halts?
-
 **A**: Right, we've gotten a lot of feedback that indicates that this is a problem so we are strongly considering an op code that gives the amount of ether left, this would allow a smooth early exit
 
 
 **Q**: I have a question regarding reproducibility. Seems that this would get executed same way in different nodes, if these contracts would or can have any side-effects
-
 **A**: wAy that i'm looking to change the scripting language to set things up, that two contracts act in same way, the contract would only be stored once, then data and code would be separate
 
 
 **Q**: wasn't my question, if contract only gets executed once you want it to be verified by another node. Is that true?
-
 **A**: Yes, then, i would imagine that a contract couldn't do anything exactly replicable on a different minter
 
 **A**: Right, they would need to be fully deterministic. 
@@ -252,17 +244,14 @@ Your investment type contract would have different clauses. like trans. type 1, 
 
 
 **Q**: My question is about the ETH how they change hands? Is it possible that they would change the source? ETH end up in only the hands of certain people, whoever can execute the contracts. They get paid in ETH.
-
 **A**: Right now we are thinking of burning transaction fees. The nice thing about ETH in terms of what it is different from BTC, the supply doesn't stop growing. Doesn't accelerate. 
 
 
 **Q**: I saw the thread on annotating smart contracts, if you could add a comment then it would help understand people how to do them. Add comments in the compiler?
-
 **A**: Right now the compiler does not support comments, but it will.
 
 
 **Q**: It feel to me that as much as I like ETH that is is really raw, like before Satoshi related it. 
-
 **A**: Yes, the whole point of a pre-sale is for us to get the resources to bring it to completion. At the end we will have all the resources that BTC has. Very much like BTC in 2008 at this point.
 
 
