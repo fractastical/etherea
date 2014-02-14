@@ -119,9 +119,6 @@ Contract example no. 2
 
 **VB**:  first of all we calculate what the current ether value of this quantity of dollars is, how many ethers is party A entitled to over here
 
-**VB**:  
-
-
 
 Contract example no. 3
 ====================
