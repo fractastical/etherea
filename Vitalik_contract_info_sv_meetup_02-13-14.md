@@ -1,3 +1,7 @@
+Smart Contract examples with commentary from Vitalik
+====================
+
+
 Contract example no.1
 ====================
 

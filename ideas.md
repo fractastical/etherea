@@ -1,5 +1,6 @@
-Ideas for future videos:
+Ideas for future videos
 ====================
+
 (roughly listed in order of priority)
 
 + "My first smart contract" - build a contract from scratch illustrating all major building blocks (tx.send, tx.data, contract.storage, block.contract_storage, block.timestamp, fees, etc.)
