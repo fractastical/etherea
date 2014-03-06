@@ -19,9 +19,13 @@ Green ether contract
   - value of an endorsement is  ( value / hops ) * 20  
 
   ex. first level strong endorsement would be 5 / 1 * 20 = 100¯
+  
 	  first level weak endorsement 1 / 2 * 20 = 20,
+  
       second level strong endorsement would be 5 / 2 * 20 = 50
+  
       second level weak endorsement would be 1 / 2 * 20 = 10
+  
       third level strong endorsement would be 5 / 3 * 20 = 33.33
 
    - As seen above, distance from genesis transaction is extremely important for establishing in network trust. 
