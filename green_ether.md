@@ -54,7 +54,8 @@ Black (i.e nullification) ether contract
 ---------------------
 
    - vote of x number people with green score over y is sufficient to nullify a green score of z 
-   ex. a person of a score of 30 is responsible for theft, at least 5 people with a reputation of x + 20 (i.e. 50) must vote to initialize a black ether transaction. The black ether attributed is the difference of the mean of the voters (i.e. 45 ) minus the green ether value of the thief (i.e. 30). In this case, a black ether of 15 would be attributed, lowering the thief's reputation to 15 (30 - 15) 
+   ex. 
+      a person of a score of 30 is responsible for theft, at least 5 people with a reputation of x + 20 (i.e. 50) must vote to initialize a black ether transaction. The black ether attributed is the difference of the mean of the voters (i.e. 45 ) minus the green ether value of the thief (i.e. 30). In this case, a black ether of 15 would be attributed, lowering the thief's reputation to 15 (30 - 15) 
    - endorsers get a "negative endorsement" which traverses backwards over the chain via anti-hops, with a maximum of 2 hops
    - "black" ether  degrades over time, with a half-life of .1 years per point (???)
 
