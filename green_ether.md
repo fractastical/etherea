@@ -18,9 +18,11 @@ Green ether contract
   - green = highest single value endorsement 
   - value of an endorsement is  ( value / hops ) * 20  
 
-  ex. first level strong endorsement would be 5 / 1 * 20 = 100¯
+  ex. 
   
-	  first level weak endorsement 1 / 2 * 20 = 20,
+      first level strong endorsement would be 5 / 1 * 20 = 100
+  
+      first level weak endorsement 1 / 2 * 20 = 20
   
       second level strong endorsement would be 5 / 2 * 20 = 50
   
