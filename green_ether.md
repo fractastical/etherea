@@ -1,7 +1,7 @@
 Green ether
 ====================
 
-**Goal**: Create a distributed reputation system that exists on the blockchain and does not rely on any third party service or force real name verification, but nonetheless enables high trust. Ideal features include incentives for network participation and disincentives for "trust-violating" measures. This would ideally tie into some "proof of excellence" or, as I have called it "[proof of awesomeness]"(http://evergreenthoughts.quora.com/Proof-of-Awesomeness) measure.
+**Goal**: Create a distributed reputation system that exists on the blockchain and does not rely on any third party service or force real name verification, but nonetheless enables high trust. Ideal features include incentives for network participation and disincentives for "trust-violating" measures. This would ideally tie into some "proof of excellence" or, as I have called it, "[proof of awesomeness](http://evergreenthoughts.quora.com/Proof-of-Awesomeness)" measure that better represents value to the network than existing PoW/PoS mechanisms. 
 
 Green ether contract
 ---------------------
