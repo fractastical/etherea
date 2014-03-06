@@ -1,7 +1,7 @@
 Green ether
 ====================
 
-**Goal**: Create a distributed reputation system that exists on the blockchain and does not rely on any third party service or force real name verification, but enables high trust, ideally with incentives for network participation and disincentives for "trust-violating" measures. 
+**Goal**: Create a distributed reputation system that exists on the blockchain and does not rely on any third party service or force real name verification, but nonetheless enables high trust. Ideal features include incentives for network participation and disincentives for "trust-violating" measures. 
 
 Green ether contract
 ---------------------
