@@ -8,7 +8,7 @@ Green ether contract
 
 **Endorsements**:  
 
-  - genesis green ether value is 50
+  - Upon contract initialization 50 "genesis green ether" is created *ex nihilo* and given to the person initializing the contract 
   - each endorsement has a value from 1-5
   - every time someone receives an endorsement of x value, x is subtracted from the endorser, recipient gets 2x  
   - each endorsement also has a "hop value" which is the distance from the genesis endorsement
