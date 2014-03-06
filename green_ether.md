@@ -40,9 +40,13 @@ Green ether contract
 **Overview**:  
 
   - input paths
+
     -- initialization
+
     -- query user for reputation 
+    
     -- send endorsement (cost: value of endorsement)
+    
     -- withdraw endorsement (cost: .5x value of endorsement) (optional?)
 
 
