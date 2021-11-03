@@ -1,7 +1,7 @@
 
-Metameta lang
+##Metameta lang
 
-A prospectus for a metaverse language including: 
+###A prospectus for a metaverse language including: 
 
 "coordinates" (n dimensional locations passed as a set of vectors) 
 
@@ -20,7 +20,7 @@ almost0x inserts a house object at the coordinates 1,42,1
 
 SolanaN00b moves location from 0,0,0 to 1,42,1 and then in the direction 2,41,0. (i.e. each location is a set of vectors). This allows any given location to also be a portal into a different location. 
 
-Rationale:
+##Rationale:
 
 Hardcoding objects in a given metaverse leads to non-upgradability.
 
@@ -28,7 +28,7 @@ Rendering is always dynamic and evolving via a DSL layer allows for maximum incr
 
 A properly implemented access control layer would allow for multiple levels (ownership, edit rights, read only access, etc)
 
-Open questions:
+##Open questions:
 
 Are objects stored as pointers to a data file? If so, where is the data stored (ipfs? standard cloud layer?) 
 
