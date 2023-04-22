@@ -6,7 +6,7 @@ Gailei and I have invented a game called the 'philosopher's game' to help train 
 
 For the weekend edition we will play with "Sam Altman read this book as he was creating OpenAI"  simply by submitting a book or author and I will present the scores to all participants on Monday.
 
-If you wish please also submit something for Musk. He has already been trained on Great Chain of Being, Science of Logic, Titan, Zen and the Art of MM, Childhood's End, Ghost in the Machine and the Analects. Results in the PDF. 
+If you wish please also submit something for Musk. He has already been trained on Great Chain of Being, Science of Logic, Titan, Zen and the Art of MM, Childhood's End, Ghost in the Machine and the Analects. Results in the PDF (refers to the currently private Mars Settlement Master Plan).
 
 # Code:
 
