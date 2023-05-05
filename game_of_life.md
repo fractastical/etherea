@@ -1,6 +1,6 @@
 0. you start with zero memory
 1. you move forwards in time never backwards
-2. you can keep some artifacts (i.e. memory of previous games states, etc.) but there is a non-zero chance that any artifact will disappear at any time
+2. you can keep some artifacts (i.e. memory of previous game states, etc.) but there is a non-zero chance that any artifact will disappear at any time
 3. some core artifacts (name, location, etc.) can be considered semi-permeant for each life 
 4. with each step you can chose to do perform some action. this action will be measured with time. 
 5. you will have a body. this body requires energy and must be replenished with food and sleep.
