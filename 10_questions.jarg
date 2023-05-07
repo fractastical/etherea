@@ -1,0 +1,21 @@
+
+
+
++++ askQuestionsGame($player1, $player2)
+1. Initialize $player1QuestionsAsked = 0, $player2QuestionsAsked = 0
+2. Initialize $maxQuestions = 10
+3. While $player1QuestionsAsked < $maxQuestions AND $player2QuestionsAsked < $maxQuestions
+   3.1. $player1 asks a question or a set of questions
+   3.2. Increment $player1QuestionsAsked by the number of questions asked
+   3.3. If $player1QuestionsAsked >= $maxQuestions, exit the loop
+   3.4. $player2 answers the question(s)
+   3.5. $player2 asks a question or a set of questions
+   3.6. Increment $player2QuestionsAsked by the number of questions asked
+   3.7. If $player2QuestionsAsked >= $maxQuestions, exit the loop
+   3.8. $player1 answers the question(s)
+4. Determine the winner (if any) based on the quality of questions and answers
+5. Display the result
++++
+
+Previously invented as 2 player version of 'hot seat' another intimacy questioning game: "you take turns asking each other questions. questions can be asked 1 by 1 or in sets of questions (i.e. you ask five then I ask five) the game is played until each person has asked and answered 10 questions. questions can be about any area of life but a variety of questions that help you get to know the other person is appreciated."
+
