@@ -8,3 +8,8 @@ At the end of the game all fo the scores are added up and the person with highes
 
 Then a third party judge is asked to examine the board and pick the "best word." The person who created the word also wins. 
 
+
+
+Some notable words are stored here: 
+
+https://github.com/fractastical/etherea/blob/312336cf1f57dcd90091882f3a6309bbc04b3cca/my_terms.md
