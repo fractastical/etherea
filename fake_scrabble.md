@@ -1,11 +1,13 @@
 Hey little friends! 🚀 Let's play a super fun game called "Fake Scrabble"! It was made up by some cool people at a place called Sag Harbor in 2023. Here’s how you can play it:
 
-What We Need:
+# What We Need:
+
 
 A Scrabble game board
 Letter tiles from the game
 Friends or family to play with!
-Let’s Play!
+
+# Let’s Play!
 
 Make Believe Words: Use your letter tiles to make up silly, fun, or crazy words! They don’t have to be real words, just pretend ones. Each of you gets 7 letters to start, like in regular Scrabble.
 
@@ -17,7 +19,7 @@ Winning: When all the tiles are used up and no one can make more words, it's tim
 
 Extra Winning: After you count the points, someone who didn't play (like mom, dad, or a big sibling) will look at all the words and pick the one they like the best! That person also wins!
 
-Some Funny Words from Other Games:
+# Some Funny Words from Other Games:
 
 Slove: It means someone who becomes a lovey-dovey helper because they fell in love. Like helping a naughty person because they like them. 🥰 Oops!
 
