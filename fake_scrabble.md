@@ -4,7 +4,9 @@ Hey little friends! 🚀 Let's play a super fun game called "Fake Scrabble"! It 
 
 
 A Scrabble game board
+
 Letter tiles from the game
+
 Friends or family to play with!
 
 # Let’s Play!
