@@ -23,6 +23,13 @@ Usage: The artist began to delve into hyper-lacanianism to see if his true love 
 
 Link: https://chat.openai.com/share/37be0c6e-54d5-4f57-928e-c34bfe95243b
 
+# Hyperpoly 
+
+Hyperpoly is a permissionless version of polyamory that requires people to retain a formal ledger of their interactions including assessing energetic qualities in a formal way.
+
+<img width="249" alt="Screenshot 2024-02-03 at 15 20 50" src="https://github.com/fractastical/etherea/assets/589191/0c6e1135-8891-4cea-b57e-d04cad2928b4">
+
+Where A is agency, E is energetic intensity, and P is a positivity function that expreses growth potential.
 
 # Slove 
 
