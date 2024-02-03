@@ -9,6 +9,8 @@ This repo currently consists of miscellanea roughly inspired by ethereum or rela
 
 Notably for facilitating philosophical inquiry or other forms of emotional depth, including advanced communication skills, and AI.
 
+[Fake Scrabble](fake_scrabble.md) 
+
 # Whitepapers  
 
 The first whitepapers written after the ethereum whitepaper (i.e. on reputation). 
