@@ -11,6 +11,8 @@ Notably for facilitating philosophical inquiry or other forms of emotional depth
 
 [Fake Scrabble](fake_scrabble.md) 
 
+Game of MetaLife (https://www.ted.com/talks/joel_dietz_building_a_game_in_web3?language=en)
+
 # Whitepapers  
 
 The first whitepapers written after the ethereum whitepaper (i.e. on reputation). 
