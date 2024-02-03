@@ -13,6 +13,11 @@ Notably for facilitating philosophical inquiry or other forms of emotional depth
 
 Game of MetaLife (https://www.ted.com/talks/joel_dietz_building_a_game_in_web3?language=en)
 
+Philosopher's Game
+
+Zeus Conquers the Universe
+
+
 # Whitepapers  
 
 The first whitepapers written after the ethereum whitepaper (i.e. on reputation). 
