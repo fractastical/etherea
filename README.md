@@ -15,7 +15,7 @@ The first whitepapers written after the ethereum whitepaper (i.e. on reputation)
 
 # Terms 
 
-Neologisms 
+[Neologisms](my_terms.md) 
 
 # Poems 
 
