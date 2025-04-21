@@ -5,7 +5,7 @@ Author of 4x chrome extensions, 2+ successful games, multiple succesful enterpri
 
 Languages = anything you can vibe code + Python, Ruby, Java, etc. 
 
-Prefer to develop at reduce cost with some rev share. 
+Prefer to develop at reduced cost with some rev share. 
 
 https://www.linkedin.com/in/joeldietz/
 
