@@ -28,6 +28,8 @@ Zeus Conquers the Universe (card game used in early eth community)
 
 Infinite Game of Life (http://infinitegameof.life/)
 
+Return of the Golem (alchemy themed board game) 
+
 [Fake Scrabble](fake_scrabble.md) 
 
 
