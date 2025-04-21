@@ -1,7 +1,7 @@
 
 # Hire me
 
-Author of 4x chrome extensions, 2+ successful games, multiple succesful enterprise SaaS products, and some other trading infra. 
+Author of 4x chrome extensions, 2+ successful games, multiple succesful enterprise SaaS products, VJing software and trading infra. 
 
 Languages = anything you can vibe code + Python, Ruby, Java, etc. 
 
@@ -18,13 +18,17 @@ This repo also has other miscellanea roughly inspired by ethereum or related con
 
 Notably for facilitating philosophical inquiry or other forms of emotional depth, including advanced communication skills, and AI.
 
-[Fake Scrabble](fake_scrabble.md) 
-
 Game of MetaLife (https://www.ted.com/talks/joel_dietz_building_a_game_in_web3?language=en)
 
-Philosopher's Game
+Infinite Asteroids (http://crazygames.com/game/infinite-asteroids) 
 
-Zeus Conquers the Universe
+Philosopher's Game (AI training game) 
+
+Zeus Conquers the Universe (card game used in early eth community) 
+
+Infinite Game of Life (http://infinitegameof.life/)
+
+[Fake Scrabble](fake_scrabble.md) 
 
 
 # Whitepapers  
@@ -37,6 +41,7 @@ The first whitepapers written after the ethereum whitepaper (i.e. on reputation)
 
 # Poems 
 
+Now have sveral published books of poems (https://www.amazon.com/stores/Joel-Dietz/author/B07ZB6BC6S?ref=dbs_a_mng_rwt_scns_share&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=f0e41dec-77e2-4323-95f4-0d89ba3ae1f4) 
 
 # Transcripts
 
