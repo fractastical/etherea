@@ -1,6 +1,3 @@
-Etherea
-====================
-
 
 # Hire me
 
@@ -12,7 +9,9 @@ Prefer to develop at reduce cost with some rev share.
 
 https://www.linkedin.com/in/joeldietz/
 
-This repo currently consists of miscellanea roughly inspired by ethereum or related concepts
+
+
+This repo also has other miscellanea roughly inspired by ethereum or related concepts
 ---------------------
 
 #  Games 
