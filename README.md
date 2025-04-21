@@ -37,6 +37,10 @@ Return of the Golem (alchemy themed board game)
 
 The first whitepapers written after the ethereum whitepaper (i.e. on reputation). 
 
+https://github.com/fractastical/etherea/blob/master/green_ether.md
+
+and assisted with several whitepapers specific to governance primatives and real world assets 
+
 # Terms 
 
 [Neologisms](my_terms.md) 
