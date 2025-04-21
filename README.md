@@ -2,6 +2,16 @@ Etherea
 ====================
 
 
+# Hire me
+
+Author of 4x chrome extensions, 2+ successful games, multiple succesful enterprise SaaS products, and some other trading infra. 
+
+Languages = anything you can vibe code + Python, Ruby, Java, etc. 
+
+Prefer to develop at reduce cost with some rev share. 
+
+https://www.linkedin.com/in/joeldietz/
+
 This repo currently consists of miscellanea roughly inspired by ethereum or related concepts
 ---------------------
 
